@@ -4,11 +4,15 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: 
+Clone the repository from github
 ### Step 2: 
+Assign the function command in the program
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
+print the round(d,2)
 ### Step 5: 
+End the program
 ### PROGRAM:
   
 ```
@@ -35,8 +39,7 @@ print(round(d,2))
 
 ### OUTPUT:
 
-![output](formula.JPG)
-
+![output](output.jpg)
 ### RESULT:
 
 Thus the distance between two points is completed successfully
