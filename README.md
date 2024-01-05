@@ -39,7 +39,8 @@ print(round(d,2))
 
 ### OUTPUT:
 
-![output](output.jpg)
+![Screenshot 2024-01-05 094711](https://github.com/MOHAMEDAAKIFASRAR/DISTANCE-BETWEEN-TWO-POINTS/assets/148514683/f01768a8-32ba-4c0a-b3ee-b9ecd614db80)
+
 ### RESULT:
 
 Thus the distance between two points is completed successfully
